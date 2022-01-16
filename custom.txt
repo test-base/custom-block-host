@@ -1,0 +1,12 @@
+# custom blocker
+127.0.0.1 analyticsengine.s3.amazonaws.com
+127.0.0.1 affiliationjs.s3.amazonaws.com
+127.0.0.1 advertising-api-eu.amazon.com
+127.0.0.1 app.bugsnag.com
+127.0.0.1 api.bugsnag.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 app.getsentry.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 advertising.twitter.com
+127.0.0.1 widgets.pinterest.com
+127.0.0.1 d.reddit.com
