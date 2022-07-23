@@ -11,3 +11,4 @@
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 d.reddit.com
 127.0.0.1 amazonclix.com
+127.0.0.1 amazonaax.com
