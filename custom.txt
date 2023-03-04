@@ -18,6 +18,7 @@
 127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 udcm.yahoo.com
 127.0.0.1 udc.yahoo.com
+127.0.0.1 adtech.yahooinc.com
 127.0.0.1 ads-api.tiktok.com
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 afs.googlesyndication.com
