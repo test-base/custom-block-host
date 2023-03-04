@@ -12,3 +12,13 @@
 127.0.0.1 d.reddit.com
 127.0.0.1 amazonclix.com
 127.0.0.1 amazonaax.com
+127.0.0.1 ck.ads.oppomobile.com
+127.0.0.1 bdapi-in-ads.realmemobile.com
+127.0.0.1 bdapi-ads.realmemobile.com
+127.0.0.1 appmetrica.yandex.ru
+127.0.0.1 udcm.yahoo.com
+127.0.0.1 udc.yahoo.com
+127.0.0.1 ads-api.tiktok.com
+127.0.0.1 business-api.tiktok.com
+127.0.0.1 afs.googlesyndication.com
+127.0.0.1 analytics.s3.amazonaws.com
