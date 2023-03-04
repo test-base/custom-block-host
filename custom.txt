@@ -23,3 +23,6 @@
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 analytics.s3.amazonaws.com
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 advertising.apple.com
+127.0.0.1 grs.hicloud.com
