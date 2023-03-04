@@ -26,3 +26,4 @@
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 advertising.apple.com
 127.0.0.1 grs.hicloud.com
+127.0.0.1 log.fc.yahoo.com
